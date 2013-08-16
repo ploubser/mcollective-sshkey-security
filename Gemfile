@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'mcollecitve-client'
+gem 'mcollective-client'
 gem 'mcollective-test'
 
 gem 'rdoc'
